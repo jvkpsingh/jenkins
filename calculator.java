@@ -29,7 +29,7 @@ public class SimpleCalculator {
                 return;
             }
         } else {
-            System.out.println("Error: this is Invalid operator.");
+            System.out.println("Error: this is the  Invalid operator.");
             return;
         }
 
