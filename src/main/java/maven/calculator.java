@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class calculator {
-    public static void main(String[] args) {
+}    public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         double num1, num2, result;
         char operator;
