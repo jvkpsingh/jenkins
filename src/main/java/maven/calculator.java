@@ -22,7 +22,7 @@ public class calculator {
         } else if (operator == '*') {
             result = num1 * num2;
         } else if (operator == '/') {
-            if (num2 != 0) 
+            if (num2 != 0) {
                 result = num1 / num2;
             } else {
                 System.out.println("Error: Division by zero is not allowed.");
