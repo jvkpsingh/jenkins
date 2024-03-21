@@ -6,7 +6,7 @@ public class calculator {
         double num1, num2, result;
         char operator;
 
-        System.out.print("Enter the first number for add minus and subtract: ");
+        System.out.print("Enter the first number for add minus and subtract and divide: ");
         num1 = input.nextDouble();
 
         System.out.print("Enter and choose the mention operator operator (+, -, *, /): ");
