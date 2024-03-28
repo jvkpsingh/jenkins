@@ -25,7 +25,7 @@ public class calculator {
             if (num2 != 0) {
                 result = num1 / num2;
             } else {
-                System.out.println("Error: Division by zeroo is not allowed.");
+                System.out.println("Error: Division by zero is not allowed.");
                 return;
             }
         } else {
