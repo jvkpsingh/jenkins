@@ -12,7 +12,7 @@ public class calculator {
         System.out.print("Enter the and choose the mention operator and operator is (+, -, *, /): ");
         operator = input.next().charAt(0);
 
-        System.out.print("Enter the second number for add minus multiply: ");
+        System.out.print("Enter the second of  number for add minus multiply: ");
         num2 = input.nextDouble();
 
         if (operator == '+') {
