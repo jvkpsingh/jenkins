@@ -29,11 +29,11 @@ public class calculator {
                 return;
             }
         } else {
-            System.out.println("Error: this is  the Invalid operator.");
+            System.out.println("Error: this is thge  the Invalid operator.");
             return;
         }
 
         System.out.println("Result: " + result);
     }
-} }
+} 
 
