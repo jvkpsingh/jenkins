@@ -35,7 +35,7 @@ public class calculator {
 
         System.out.println("Result: " + result);
     }
-}}}}
+}}
 
 }}}
 }
