@@ -35,11 +35,7 @@ public class calculator {
 
         System.out.println("Result: " + result);
     }
-<<<<<<< HEAD
 }fff}
-=======
-}}}}
->>>>>>> parent of 2eae280 (Revert "add three commit")
 
 }}}
 }
