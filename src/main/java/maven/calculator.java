@@ -9,7 +9,7 @@ public class calculator {
         System.out.print("Enter the first number-1 for adddd minus and subtract and divide: ");
         num1 = input.nextDouble();
 
-        System.out.print("Enter the and choose the mention operator and operator is (+, -, *, /): ");
+        System.out.print("Enter the and choose the mention operator and the operator is (+, -, *, /): ");
         operator = input.next().charAt(0);
 
         System.out.print("Enter the second of  number for add minus multiply: ");
