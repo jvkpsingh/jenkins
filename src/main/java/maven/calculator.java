@@ -6,13 +6,13 @@ public class calculator {
         double num1, num2, result;
         char operator;
 
-        System.out.print("Enter the first number-1jh for adddd minus and subtract and divide: ");
+        System.out.print("Enter the first number for add, minus and subtract and divide: ");
         num1 = input.nextDouble();
 
-        System.out.print("Enter the and choose the mention operator and operator is (+, -, *, /): ");
+        System.out.print("Enter the and choose the mention operator and the operator is (+, -, *, /): ");
         operator = input.next().charAt(0);
 
-        System.out.print("Enter the second of  number for add minus multiply: ");
+        System.out.print("Enter the second of  number for add minus multiply and divided and another symbol: ");
         num2 = input.nextDouble();
 
         if (operator == '+') {
